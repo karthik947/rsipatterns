@@ -82,3 +82,5 @@ A specialized technical analysis tool focused on identifying similar patterns in
 If you enjoyed this project and want to see more or similar projects, follow me for updates! 🚀  
 You can also follow me on **YouTube** for more awesome content:  
 👉 [YouTube Channel](https://www.youtube.com/@karthik947/videos)
+
+📜 This repository's videos are released under the [CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
